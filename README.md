@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development,full stack developer
 - 🌱 I’m currently learning btech 4th year
 - 💞️ I’m looking to collaborate on full stack development
-- 📫 How to reach me 9652804639
+- 📫 How to reach me ckanth1230@gmail.com,8121314772
 
 <!---
 chandrakanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
